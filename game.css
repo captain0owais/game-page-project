@@ -1,6 +1,19 @@
 body
 {
-	background-color:lightcoral;
+	background-image:linear-gradient(lightcoral,rgb(255, 98, 98));
+
+}
+
+
+#question
+{
+	background-color: ghostwhite;
+	width: 280px;
+	height: 180px;
+	border-style: ridge;
+	border-radius: 7px;
+	border-width: 7px;
+	border-color:lightcoral;
 }
 
 	.login_div-1 , .login_div-2
@@ -35,4 +48,9 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+}
+
+#question
+{
+	background-image:linear-gradient(lightcoral,rgb(255, 98, 98));
 }
